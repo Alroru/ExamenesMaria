@@ -1,7 +1,7 @@
 // Obtener el formulario y las preguntas
 const preguntasForm = document.getElementById('preguntas-form');
 const preguntas = preguntasForm.querySelectorAll('div');
-const respuestasCorrectas = ["a","c","a","c","b","b","a"];
+const respuestasCorrectas = ["a","c","a","c","b","b","a","a","a","b"];
  
  
 
